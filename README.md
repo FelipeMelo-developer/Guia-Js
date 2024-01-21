@@ -33,6 +33,9 @@ Explore uma lista cuidadosamente compilada de links úteis que vão além dos co
 
 - [O que é JavaScript?](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
+- [Como utilizar operadores de comparação em Javascript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript?_gl=1*16t85e1*_ga*MzkwMzQ4MzU4LjE3MDUxNTE3MzQ.*_ga_1EPWSW3PCS*MTcwNTg2NjQxNi4zNS4xLjE3MDU4NjgwNjEuMC4wLjA.*_fplc*Sm9PT1VXV2pISElZNW5ncVolMkZ0RGFRdmNPTUlSSUV6WlRaVVdFaE1DTTB2cmdIMk5yQnIwWGpWcjRQayUyQmhHMnpNNU1sViUyQm8lMkJaQ3hybWVkUVQyTzclMkZsNmRXd0pGdSUyRnNyTE5RZyUyRjB5JTJGRFFoY2NnWnoydEFrZjUxM1BlemVvUSUzRCUzRA..)
+
+
 ### 💻 Cursos
 
 Investir no seu desenvolvimento é crucial. Nessa seção de cursos, ofereço indicações cuidadosamente selecionadas para aprimorar seu aprendizado em Git e GitHub. Esses cursos são projetados para levar suas habilidades a novos patamares, proporcionando uma compreensão mais profunda e prática.
